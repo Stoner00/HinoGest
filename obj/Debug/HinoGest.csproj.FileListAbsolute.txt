@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\HinoGest\bin\Debug\HinoGest.exe.config
+C:\Users\Bruno\source\repos\HinoGest\bin\Debug\HinoGest.exe
+C:\Users\Bruno\source\repos\HinoGest\bin\Debug\HinoGest.pdb
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.Form1.resources
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.Properties.Resources.resources
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.exe
+C:\Users\Bruno\source\repos\HinoGest\obj\Debug\HinoGest.pdb
